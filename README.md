@@ -1,4 +1,4 @@
-# Tfidf__Sklearn_and_NN
+# Tfidf__Sklearn_and_NN_in_NLP
 
 * Задание 1.
 
